@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ram Harsh Pandey</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate MERN stack developer</h3>
 
 - 📫 How to reach me **ramharsp@gmail.com**
 
